@@ -38,7 +38,7 @@
             android:layout_marginLeft="10dp"
             android:background="@android:color/background_light"
             android:layout_toRightOf="@id/txtViewBillAmount"
-            android:inputType="text"
+            android:inputType="phone"
             android:textSize="25sp"
             android:width="150dp" />
 
